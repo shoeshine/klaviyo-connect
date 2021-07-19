@@ -6,7 +6,7 @@ Connect your Klaviyo account to Craft Commerce to track shoppers during their ch
 
 Then within your Klaviyo account create the appropriate automated "flows" for these events to automate email messages or include your customers into specific campaigns.
 
-__Perfect for recovering abandoned carts, welcoming first-time shoppers, or marketing to purchasers of specific products.__
+**Perfect for recovering abandoned carts, welcoming first-time shoppers, or marketing to purchasers of specific products.**
 
 # Requirements
 
@@ -28,6 +28,7 @@ This plugin requires Craft 3.x and Commerce 2.x
 - [Template Examples](Templating.md)
   - [Twig Templates](Templating.html#twig-templates)
   - [Klaviyo Email Templates](Templating.html#klaviyo-email-templates)
+  - [Vue Templates](Templating.html#vue-templates)
 - [Product Feed](Feed.md)
 
 ## Klaviyo
